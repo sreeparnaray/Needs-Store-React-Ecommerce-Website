@@ -1,6 +1,6 @@
 # Needs Store React Ecommerce Website
 
-The Needs Store React Ecommerce Website is a comprehensive online shopping platform developed using React.js. This project aims to create a user-friendly and visually appealing ecommerce website where customers can browse, search, and purchase various products. The platform will provide a seamless and secure shopping experience, allowing customers to add products to their cart, proceed to checkout.
+The Needs Store React Ecommerce Website is a comprehensive responsive online shopping platform developed using React.js. This project aims to create a user-friendly and visually appealing ecommerce website where customers can browse, search, and purchase various products. The platform will provide a seamless and secure shopping experience, allowing customers to add products to their cart, proceed to checkout.
 
 ### Overview:
 The Needs Store React Ecommerce Website is designed to cater to the needs of both customers and sellers. It will offer an intuitive user interface that allows customers to easily navigate through different product categories, view product details, and add items to their shopping cart. The website will also include seller accounts, enabling vendors to manage their products, update inventory, and process orders.
@@ -86,3 +86,10 @@ Footer Section
 - Customer's feedback can be received in email
 
 ![Screenshot (2500)](https://github.com/sreeparnaray/Needs-Store-React-Ecommerce-Website/assets/67807475/2f47297c-14fc-45c3-9aa1-7672cbc24d78)
+
+## Responsive Website and Memory Storage
+
+![Screenshot (2515)](https://github.com/sreeparnaray/Needs-Store-React-Ecommerce-Website/assets/67807475/7acbdf5e-7b70-4477-8d12-23338c6f9b8c)
+
+![Screenshot (2516)](https://github.com/sreeparnaray/Needs-Store-React-Ecommerce-Website/assets/67807475/5bbab05e-71d5-494c-917f-f545a907a321)
+
