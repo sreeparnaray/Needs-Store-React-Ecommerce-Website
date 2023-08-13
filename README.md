@@ -51,7 +51,8 @@ Footer Section
 
 ![Screenshot (2504)](https://github.com/sreeparnaray/Needs-Store-React-Ecommerce-Website/assets/67807475/2c38ce8b-b908-4a63-a73f-0cf6badca235)
 
-![Screenshot (2505)](https://github.com/sreeparnaray/Needs-Store-React-Ecommerce-Website/assets/67807475/bda6d2ab-285d-4b06-80b5-8af2dd89c42e)
+![Screenshot (2546)](https://github.com/sreeparnaray/Needs-Store-React-Ecommerce-Website/assets/67807475/deffdec1-0134-449c-8c1c-465a48111c2f)
+
 
 
 ### Special Features of Products Page
